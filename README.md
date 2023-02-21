@@ -5,9 +5,10 @@ the number of colors while coloring a graph. In this project, three different me
 from the most edged to the least edged. The nall three methods are processed sequentially. The best solution will be written to the output file which you specified.
 
 ### Input file structure:
+```
 p <number of vertex> <number of edges>
 e <number of a vertex> <number of a vertex>
-
+```
 First line specifies the vertex number and number of edges. Rest of the lines gives us the edges which is pointing from the first index number to the second
 index number. You can see the test inputs in the project folder. Here's the example that you can find in the test.txt file:
 
@@ -19,10 +20,10 @@ e 1 4
 ```
 
 ### Output file structure:
-
+```
 <number of colors used>
 <first vertex's color number> <second vertex's color number> ...
-
+```
 First line gives the total number of color used to color the graph. Second line gives the color numbers of every vertex in order. First vertex's color 
 is the first number. Here you can see the output of the above test.txt file:
 
