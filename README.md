@@ -1,8 +1,8 @@
 # Graph Coloring Problem
 
-Graph coloring problem is the process of assigning colors to the vertices such that no two adjacent vertexes have the same color. The objective is to minimize
+Graph coloring problem is the process of assigning colors to the vertices such that no two adjacent vertices have the same color. The objective is to minimize
 the number of colors while coloring a graph. In this project, three different methods were implemented. Before implementing these methods, nodes are sorted 
-from the most edged to the least edged. The nall three methods are processed sequentially. The best solution will be written to the output file which you specified.
+from the most edged to the least edged. Then all three methods are processed sequentially. The best solution will be written to the output file which you specified.
 
 ### Input file structure:
 ```
