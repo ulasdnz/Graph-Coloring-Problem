@@ -1,8 +1,8 @@
 const fs = require("fs");
 
 // input and output file names are assigned.
-const inputFilePath = "./test.txt";
-const outputFileName = "./output.txt";
+const inputFilePath = "./test1.txt";
+const outputFileName = "./output1.txt";
 
 // 10 thousand number generated to be used as different colors.
 colors = [];
