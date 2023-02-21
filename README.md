@@ -10,7 +10,7 @@ p <number of vertex> <number of edges>
 e <number of a vertex> <number of a vertex>
 ```
 First line specifies the vertex number and number of edges. Rest of the lines gives us the edges which is pointing from the first index number to the second
-index number. You can see the test inputs in the project folder. Here's the example that you can find in the test.txt file:
+index number. You can see the test inputs in the project folder. Here's an example input file:
 
 ```
 p 4 3
@@ -25,7 +25,7 @@ e 1 4
 <first vertex's color number> <second vertex's color number> ...
 ```
 First line gives the total number of color used to color the graph. Second line gives the color numbers of every vertex in order. First vertex's color 
-is the first number. Here you can see the output of the above test.txt file:
+is the first number. Here you can see the output of the example above:
 
 ```
 2
